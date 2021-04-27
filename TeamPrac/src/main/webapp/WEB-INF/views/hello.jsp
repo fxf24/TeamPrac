@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello
+hello jsp파일 수정했습니다.
 </body>
 </html>
